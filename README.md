@@ -1,4 +1,11 @@
 <div align="center">
+            <h1 style="font-size: 50px; font-style: inherit; color: rgb(146, 56, 230);"> 
+                <b>ZÜLEYHA AZKUN</b>
+            </h1>
+            <pre style="font-size: 20px;">"Impossible is undefined"</pre>
+            
+</div>
+<div align="center">
             <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFvOGRwc3p5emk2dmQ4NHpoN2NqYXVpamY0dGw5Y204dTdyeW41ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
         <br>
@@ -25,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Züleyha AZKUN and I'm a Full Stack Developer<br><br>- 💻 I’m currently working on React and Next.JS<br>- 📚  I’m currently learning React-Native<br>- 💬 Ask me about HTML, CSS, JavaScript, Docker, React, Redux, Node.JS, Python</p>
+<p align="left">I'm Züleyha and I'm a Full Stack Developer<br><br>- 💻 I’m currently working on React and Next.JS<br>- 📚  I’m currently learning React-Native<br>- 💬 Ask me about HTML, CSS, JavaScript, Docker, React, Redux, Node.JS, Python</p>
 
 ###
 
